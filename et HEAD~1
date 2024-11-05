@@ -1,0 +1,45 @@
+[33mcommit b73e4a8f78d6cdfb89d4307d201b02a26c191b3a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 44464c5 da227be
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 20:09:02 2024 +0530
+
+    add both lines
+
+[33mcommit da227beba8c6682f27faebd63e374fcc69f866a3[m[33m ([m[1;32mnewfeature[m[33m)[m
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 19:55:58 2024 +0530
+
+    add a form
+
+[33mcommit 44464c53dbebc0841898ca50629a0e1f369573dc[m
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 19:52:24 2024 +0530
+
+    add a button
+
+[33mcommit de130580716346e31aaba0952a2fe5b31845d741[m
+Merge: aedfbb1 df00aac
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 19:29:58 2024 +0530
+
+    Merge pull request #1 from AbdulRahim964/newfeature
+    
+    added a new feature
+
+[33mcommit df00aac2413b985a9f019bdef341ef8178b3e002[m[33m ([m[1;31morigin/newfeature[m[33m)[m
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 14:09:41 2024 +0530
+
+    add a new feature
+
+[33mcommit aedfbb19a31af6fed94e767dbcecdca8c5a1db33[m
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Tue Nov 5 00:20:40 2024 +0530
+
+    this is second commant
+
+[33mcommit 02ffa0a909b33d3905a6a8ae7147826ef7637f1e[m
+Author: AbdulRahim964 <rahimkhana343@gmail.com>
+Date:   Mon Nov 4 23:57:33 2024 +0530
+
+    this is first commit
